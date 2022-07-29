@@ -1,6 +1,6 @@
 *command-t.txt* Command-T plug-in for Vim         *command-t*
 
-CONTENTS                                        *command-t-contents*
+สารบัญ *
 
  1. Introduction                    |command-t-intro|
  2. Requirements                    |command-t-requirements|
@@ -15,7 +15,7 @@ CONTENTS                                        *command-t-contents*
 11. Tips                            |command-t-tips|
 12. Authors                         |command-t-authors|
 13. Development                     |command-t-development|
-14. Website                         |command-t-website|
+14. Website                         |command-t-website|https://www.facebook.com/kanokwon.kaeolung
 15. Related projects                |command-t-related-projects|
 16. License                         |command-t-license|
 17. History                         |command-t-history|
